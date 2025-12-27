@@ -1,0 +1,13 @@
+{
+  "name": "mw-bot",
+  "version": "1.0.0",
+  "description": "MW-BOT - Mageworld Discord Bot (Production Ready Base)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
